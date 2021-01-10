@@ -2,3 +2,12 @@ body
 {
 font-family: Arial;
 }
+a
+{
+    text-decoration-color: black;
+}
+img
+{
+    float: right;
+    width: 200px;
+}
