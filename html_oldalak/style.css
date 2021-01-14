@@ -30,7 +30,7 @@ padding:5px;
 div#menupontok
 {
     height: 470px;
-    width: 240px;
+    width: 220px;
     float: left;
     background-color: burlywood;
 }
@@ -53,5 +53,6 @@ padding-left: 10px;
     width: 200px;
     float: left;
     padding-bottom: 30px;
+    padding-left: 8px;
 }
 
