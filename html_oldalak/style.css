@@ -3,6 +3,7 @@ body
 
 font-family: Arial;
 color: black;
+background-color: lightgray;
 }
 a
 {
@@ -67,4 +68,13 @@ padding-left: 10px;
 div#tartalom #erdekesek
 {
     width: 300px;
+}
+div#tortenetek
+{
+    float: left;
+    width: 500px;
+}
+p#formazas
+{
+    width: 900px;
 }
