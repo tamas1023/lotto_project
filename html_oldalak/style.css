@@ -31,7 +31,7 @@ padding:5px;
 }
 div#menupontok
 {
-    height: 770px;
+    height: 420px;
     width: 220px;
     float: left;
     background-color: rgb(66, 66, 66);
@@ -72,9 +72,13 @@ div#tartalom #erdekesek
 div#tortenetek
 {
     float: left;
-    width: 500px;
+    width: 600px;
 }
 p#formazas
 {
     width: 900px;
+}
+a hr#vonal
+{
+   color: rgb(66, 66, 66);
 }
