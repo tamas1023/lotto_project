@@ -10,6 +10,7 @@ a
     padding: 0px;
     text-decoration-color: black;
     text-decoration-line: none;
+    color: white;
 }
 img
 {
@@ -32,7 +33,7 @@ div#menupontok
     height: 770px;
     width: 220px;
     float: left;
-    background-color: burlywood;
+    background-color: rgb(66, 66, 66);
 }
 
 h1
