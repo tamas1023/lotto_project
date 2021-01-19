@@ -77,6 +77,7 @@ div#tortenetek
 p#formazas
 {
     width: 900px;
+    text-align: justify;
 }
 a hr#vonal
 {
